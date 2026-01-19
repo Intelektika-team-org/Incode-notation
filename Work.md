@@ -2,4 +2,4 @@
 
 
 ## Task management & Talking
-All working goes in private chat repository ([repo](https://github.com/Intelektika-team-org/Chats-discussions))
+All working goes in private chat repository ([repo](https://github.com/Intelektika-team-org/Tack-Management/))
